@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+
+Pemandangan Alam/
+
+static/uploads/
+
+.ipynb_checkpoints/
+
+xception_scene.keras
+best_xception.keras
+
+.env
