@@ -109,5 +109,3 @@ Muhammad Emil Mushthopa
 Universitas Bale Bandung
 
 Informatics Engineering
-
-Semester 2
